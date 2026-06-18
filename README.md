@@ -34,4 +34,4 @@ Frontend Web Developer
 
 ## 🔗 Live Demo
 
-Coming Soon...
+https://mishalogic356.github.io/Moodify/
